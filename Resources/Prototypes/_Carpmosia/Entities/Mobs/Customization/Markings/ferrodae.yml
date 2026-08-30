@@ -345,6 +345,7 @@
     default:
       type:
         !type:TattooColoring
+        negative: true
       fallbackColor: "#666666"
 
 - type: marking
@@ -359,6 +360,7 @@
     default:
       type:
         !type:TattooColoring
+        negative: true
       fallbackColor: "#666666"
 
 - type: marking
@@ -373,6 +375,7 @@
     default:
       type:
         !type:TattooColoring
+        negative: true
       fallbackColor: "#666666"
 
 - type: marking
@@ -387,4 +390,5 @@
     default:
       type:
         !type:TattooColoring
+        negative: true
       fallbackColor: "#666666"

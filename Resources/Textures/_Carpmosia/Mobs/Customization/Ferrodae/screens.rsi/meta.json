@@ -22,10 +22,6 @@
         {
             "name": "eyes",
             "directions": 4
-        },
-        {
-            "name": "eyes_dead",
-            "directions": 4
         }
     ]
 }
