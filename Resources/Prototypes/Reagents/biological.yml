@@ -152,6 +152,19 @@
   recognizable: true
   physicalDesc: reagent-physical-desc-strong-smelling
 
+# Carpmosia-start - ferrodae
+- type: reagent
+  parent: Blood
+  id: FerrochromicBlood
+  name: reagent-name-ferrochromic-acid-blood
+  group: Biological
+  desc: reagent-desc-ferrochromic-acid-blood
+  flavor: sour
+  color: "#65bec2"
+  recognizable: true
+  physicalDesc: reagent-physical-desc-ferrous
+# Carpmosia-end - ferrodae
+
 - type: reagent
   id: ZombieBlood
   name: reagent-name-zombie-blood

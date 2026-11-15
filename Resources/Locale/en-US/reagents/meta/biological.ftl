@@ -19,6 +19,11 @@ reagent-desc-ammonia-blood = Nothing else in the entire galaxy smells quite so a
 reagent-name-sulfur-blood = sulfuric blood
 reagent-desc-sulfur-blood = Feels almost acidic.
 
+# Carpmosia-start - ferrodae
+reagent-name-ferrochromic-acid-blood = ferrochromic blood
+reagent-desc-ferrochromic-acid-blood = Ferrochromic acid with added water and corrosion inhibitors. Widely used as an industrial working fluid.
+# Carpmosia-end - ferrodae
+
 reagent-name-zombie-blood = zombie blood
 reagent-desc-zombie-blood = Would not advise eating. Can be used to create an inoculation against the infection.
 
